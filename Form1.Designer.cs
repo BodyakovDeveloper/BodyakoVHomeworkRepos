@@ -310,7 +310,6 @@
         private System.Windows.Forms.Button bUmn;
         private System.Windows.Forms.Button bDelenie;
         private System.Windows.Forms.TextBox tb_Calc;
-        private System.Windows.Forms.Timer Anim;
     }
 }
 
