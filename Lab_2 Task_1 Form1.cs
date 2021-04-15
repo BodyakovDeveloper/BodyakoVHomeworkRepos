@@ -19,7 +19,9 @@ namespace Lab_2_Sem_2_winforms
 
         private void button1_Click(object sender, EventArgs e)
         {
+            // if (textbox != ""){
             comboBox1.Items.Add(textBox1.Text);
+            // }
             textBox1.Clear();
         }
 
