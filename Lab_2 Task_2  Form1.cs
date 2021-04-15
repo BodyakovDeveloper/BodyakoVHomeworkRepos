@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -55,7 +55,6 @@ namespace Lab_2_Part_2_Sem_2
         }
         string mustClick = "1";
         int mustClick1 = 1;
-        int counter = 0;
         void arrayOfButtons_MouseClick(object sender, MouseEventArgs e)
         {
             var button = (Button)sender;
@@ -66,31 +65,29 @@ namespace Lab_2_Part_2_Sem_2
                 mustClick1++;
                 mustClick = Convert.ToString(mustClick1);
                 tb.Text = "";
-                counter++;
-                if(counter == 16)
+                if(mustClick1 == 17)
                 {
                     tb.Text = "Молодець!";
-                    for (int i = 0; i < counter; i++)
+                    for (int i = 0; i < mustClick1-1; i++)
                     {
                         arrayOfButtons[i].Visible = true;
                     }
                     mustClick = "1";
                     mustClick1 = 1;
-                    counter = 0;
                 }
             }
             else
             {
-                for(int i = 0; i < counter; i++)
+                for(int i = 0; i < mustClick1-1; i++)
                 {
                     arrayOfButtons[i].Visible = true;
                 }
                 mustClick = "1";
                 mustClick1 = 1;
                 tb.Text = "Помилка!";
-                counter = 0;
             }
         }
     }
 }
+
 
