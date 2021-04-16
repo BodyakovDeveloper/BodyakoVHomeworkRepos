@@ -53,36 +53,33 @@ namespace Lab_2_Part_2_Sem_2
             }
             this.Controls.Add(tb);
         }
-        string mustClick = "1";
         int mustClick1 = 1;
+        int wasClicked;
         void arrayOfButtons_MouseClick(object sender, MouseEventArgs e)
         {
-            var button = (Button)sender;
-            if (button.Text == mustClick)
+            Button button = (Button)sender;
+            wasClicked = Convert.ToInt32(button.Text);
+            if (wasClicked == mustClick1)
             {
-                arrayOfButtons[mustClick1-1].Visible = false;
-                mustClick1 = Convert.ToInt32(mustClick);
+                arrayOfButtons[mustClick1 - 1].Visible = false;
                 mustClick1++;
-                mustClick = Convert.ToString(mustClick1);
                 tb.Text = "";
-                if(mustClick1 == 17)
+                if (mustClick1 == 17)
                 {
                     tb.Text = "Молодець!";
-                    for (int i = 0; i < mustClick1-1; i++)
+                    for (int i = 0; i < mustClick1 - 1; i++)
                     {
                         arrayOfButtons[i].Visible = true;
                     }
-                    mustClick = "1";
                     mustClick1 = 1;
                 }
             }
             else
             {
-                for(int i = 0; i < mustClick1-1; i++)
+                for (int i = 0; i < mustClick1 - 1; i++)
                 {
                     arrayOfButtons[i].Visible = true;
                 }
-                mustClick = "1";
                 mustClick1 = 1;
                 tb.Text = "Помилка!";
             }
