@@ -1,0 +1,10 @@
+C:\Users\BodyakoV\source\repos\Lab_2 Sem_2 winforms\Lab_2 Sem_2 winforms\bin\Debug\Lab_2 Sem_2 winforms.exe.config
+C:\Users\BodyakoV\source\repos\Lab_2 Sem_2 winforms\Lab_2 Sem_2 winforms\bin\Debug\Lab_2 Sem_2 winforms.exe
+C:\Users\BodyakoV\source\repos\Lab_2 Sem_2 winforms\Lab_2 Sem_2 winforms\bin\Debug\Lab_2 Sem_2 winforms.pdb
+C:\Users\BodyakoV\source\repos\Lab_2 Sem_2 winforms\Lab_2 Sem_2 winforms\obj\Debug\Lab_2 Sem_2 winforms.csprojAssemblyReference.cache
+C:\Users\BodyakoV\source\repos\Lab_2 Sem_2 winforms\Lab_2 Sem_2 winforms\obj\Debug\Lab_2_Sem_2_winforms.Form1.resources
+C:\Users\BodyakoV\source\repos\Lab_2 Sem_2 winforms\Lab_2 Sem_2 winforms\obj\Debug\Lab_2_Sem_2_winforms.Properties.Resources.resources
+C:\Users\BodyakoV\source\repos\Lab_2 Sem_2 winforms\Lab_2 Sem_2 winforms\obj\Debug\Lab_2 Sem_2 winforms.csproj.GenerateResource.cache
+C:\Users\BodyakoV\source\repos\Lab_2 Sem_2 winforms\Lab_2 Sem_2 winforms\obj\Debug\Lab_2 Sem_2 winforms.csproj.CoreCompileInputs.cache
+C:\Users\BodyakoV\source\repos\Lab_2 Sem_2 winforms\Lab_2 Sem_2 winforms\obj\Debug\Lab_2 Sem_2 winforms.exe
+C:\Users\BodyakoV\source\repos\Lab_2 Sem_2 winforms\Lab_2 Sem_2 winforms\obj\Debug\Lab_2 Sem_2 winforms.pdb
