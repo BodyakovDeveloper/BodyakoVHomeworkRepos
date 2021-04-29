@@ -1,0 +1,54 @@
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.exe
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.deps.json
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.runtimeconfig.json
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.runtimeconfig.dev.json
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.dll
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\ref\Lab_3_Sem_2.dll
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.pdb
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.csprojAssemblyReference.cache
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.Form1.resources
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.csproj.GenerateResource.cache
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.AssemblyInfoInputs.cache
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.AssemblyInfo.cs
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.csproj.CoreCompileInputs.cache
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.dll
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\ref\Lab_3_Sem_2.dll
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.pdb
+C:\Users\Endless Despair\source\repos\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.genruntimeconfig.cache
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.exe
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.deps.json
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.runtimeconfig.json
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.runtimeconfig.dev.json
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.dll
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\ref\Lab_3_Sem_2.dll
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.pdb
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.csprojAssemblyReference.cache
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.Form1.resources
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.csproj.GenerateResource.cache
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.AssemblyInfoInputs.cache
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.AssemblyInfo.cs
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.csproj.CoreCompileInputs.cache
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.dll
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\ref\Lab_3_Sem_2.dll
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.pdb
+C:\Users\BodyakoV\Desktop\Lab_3_Sem_2\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.genruntimeconfig.cache
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.exe
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.deps.json
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.runtimeconfig.json
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.runtimeconfig.dev.json
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.dll
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\bin\Debug\net5.0-windows\ref\Lab_3_Sem_2.dll
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\bin\Debug\net5.0-windows\Lab_3_Sem_2.pdb
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.csprojAssemblyReference.cache
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.Form1.resources
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.csproj.GenerateResource.cache
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.AssemblyInfoInputs.cache
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.AssemblyInfo.cs
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.csproj.CoreCompileInputs.cache
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.dll
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\ref\Lab_3_Sem_2.dll
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.pdb
+C:\Users\BodyakoV\source\repos\Lab_3 WinF\Lab_3_Sem_2\obj\Debug\net5.0-windows\Lab_3_Sem_2.genruntimeconfig.cache
