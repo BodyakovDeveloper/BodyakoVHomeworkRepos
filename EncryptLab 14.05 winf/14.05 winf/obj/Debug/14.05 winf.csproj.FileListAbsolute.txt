@@ -1,0 +1,10 @@
+C:\Users\BodyakoV\source\repos\14.05 winf\14.05 winf\bin\Debug\14.05 winf.exe.config
+C:\Users\BodyakoV\source\repos\14.05 winf\14.05 winf\bin\Debug\14.05 winf.exe
+C:\Users\BodyakoV\source\repos\14.05 winf\14.05 winf\bin\Debug\14.05 winf.pdb
+C:\Users\BodyakoV\source\repos\14.05 winf\14.05 winf\obj\Debug\14.05 winf.csprojAssemblyReference.cache
+C:\Users\BodyakoV\source\repos\14.05 winf\14.05 winf\obj\Debug\_14._05_winf.Form1.resources
+C:\Users\BodyakoV\source\repos\14.05 winf\14.05 winf\obj\Debug\_14._05_winf.Properties.Resources.resources
+C:\Users\BodyakoV\source\repos\14.05 winf\14.05 winf\obj\Debug\14.05 winf.csproj.GenerateResource.cache
+C:\Users\BodyakoV\source\repos\14.05 winf\14.05 winf\obj\Debug\14.05 winf.csproj.CoreCompileInputs.cache
+C:\Users\BodyakoV\source\repos\14.05 winf\14.05 winf\obj\Debug\14.05 winf.exe
+C:\Users\BodyakoV\source\repos\14.05 winf\14.05 winf\obj\Debug\14.05 winf.pdb
